@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1488935756 source:c:\users\jimmy ramos\documents\algoritmos\kruskalmst\edge.cpp
+	"Edge.h"
+
+1488935756 c:\users\jimmy ramos\documents\algoritmos\kruskalmst\edge.h
+
+1489422669 source:c:\users\jimmy ramos\documents\algoritmos\kruskalmst\main.cpp
+	"Test.h"
+	<iostream>
+	"Edge.h"
+
+1488935757 c:\users\jimmy ramos\documents\algoritmos\kruskalmst\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"Edge.h"
+
+1488935757 source:c:\users\jimmy ramos\documents\algoritmos\kruskalmst\test.cpp
+	"Test.h"
+
